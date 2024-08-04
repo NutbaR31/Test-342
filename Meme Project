@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+ <html lang="en">
+    <head>
+        <meta charset="UTF=8">
+        <title>A Funny Meme</title>
+        <link rel="stylesheet" href="Meme1.css"/>
+    </head>
+    <body>
+<div>
+    <img src="/Fun Pics/Cat Kill.jpeg" alt="A cat with a knife threataning a Fat Cat"/>
+<h2>When that 'Fancy Suit' tells you to go to the gym.</h2>
+</div>
+<div>
+    <img src="/Fun Pics/Hangover Duck.jpeg" alt="A flying upside down duck"/>
+    <h2>What a functioning Hangover looks like..</h2>
+</div>
+<div>
+    <img src="/Fun Pics/Squirrel Stop.jpeg/" alt=""/>
+    <h2>Why you ignored that warning last night, because you were smashed..</h2>
+</div>
+<div>
+    <img src="/Fun Pics/Big Pooch.jpeg" alt=""/>
+    <h2>Why we hate funny mirrors.</h2>
+</div>
+<div>
+    <img src="./Assets/Images/Dog Fight.jpeg Fight.jpeg" alt=""/>
+    <h2>The last of the Macvities...on the table..</h2>
+</div>
+    </body>
+    <footer>
+
+    </footer>
+    </html>
