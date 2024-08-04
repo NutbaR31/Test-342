@@ -1,8 +1,12 @@
 h2 {
    color: aliceblue;
     font-size: 28px
-
+   text-align: center;
 }
 * {
     background-color: black;
+}
+.las {
+border: 10px solid white smoke;
+   align-self: center;
 }
